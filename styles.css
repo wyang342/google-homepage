@@ -1,0 +1,99 @@
+body {
+    font-family: Arial;
+    font-size: x-small;
+}
+
+.logo {
+    padding-top: 170px;
+    padding-bottom: 30px;
+}
+
+.logo img {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+.searchBar {
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 200px;
+}
+
+.topNav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.topNav ul li {
+    display: inline;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right
+}
+
+.topNav ul li a {
+    display: block;
+    padding: 20px 16px 0px 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.buttonGroup {
+    display: block;
+    margin: auto;
+    width:310px;
+    padding-top: 30px;
+}
+
+.buttonGroup input {
+    background-color: #f8f9fa;
+    color: black;
+    font-size: x-small;
+    padding: 13px 20px;
+    border: none;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+
+.footer ul {
+    list-style-type: none;
+}
+
+.footer ul li {
+    display: inline;
+}
+
+.footer ul li a {
+    display: block;
+    padding: 0px 16px 20px 16px;
+    text-align: center;
+    text-decoration: none;
+    color: #70757a;
+}
+
+#apps {
+    width: 25px;
+}
+
+#pfp {
+    width: 50px;
+    border-radius: 100%;
+}
+
